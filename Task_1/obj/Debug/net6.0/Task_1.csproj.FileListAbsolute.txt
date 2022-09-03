@@ -1,0 +1,15 @@
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\voxdan21\Рабочий стол\Homework_2\Task_1\obj\Debug\net6.0\ref\Task_1.dll
